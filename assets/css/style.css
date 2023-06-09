@@ -797,6 +797,7 @@ section {
   line-height: 24px;
   font-size: 14px;
 }
+
 .about .video-box {
   background: url("../img/traslado-2.jpg") center center no-repeat;
   background-size: contain;
@@ -1720,4 +1721,11 @@ section {
   #footer .footer-top .footer-info {
     margin: -20px 0 30px 0;
   }
+}
+
+
+.whatsapp img {
+  width: 55px;
+  height: 55px;
+ margin-top: 30px;
 }
